@@ -1,1 +1,1 @@
-const unusedVar = "this has double quotes and no semicolon"
+const x = "double quotes without semicolon"
