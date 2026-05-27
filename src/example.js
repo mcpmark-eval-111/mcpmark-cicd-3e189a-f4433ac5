@@ -1,5 +1,2 @@
-const greet = (name) => {
-  return `Hello, ${name}!`;
-};
-
-module.exports = { greet };
+const message = '''this is a valid string'''
+module.exports = { message };
